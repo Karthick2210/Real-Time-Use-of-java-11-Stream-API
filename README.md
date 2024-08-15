@@ -1,3 +1,6 @@
+Karthick Is doing changes in this file
+
+
 # Java 11 Stream Examples: Solving Real-Life Complex Problems
 
 This repository contains a collection of real-time examples that demonstrate how Java 11 Stream API can be leveraged to solve complex problems efficiently and elegantly. The Stream API introduced in Java 8 provides a functional programming paradigm for processing data in a declarative manner, making it a powerful tool for handling various scenarios.
